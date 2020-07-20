@@ -1,0 +1,38 @@
+body {
+	background-color: #F8F3EB;
+}
+
+h1 {
+	font-family: 'Marck Script', cursive;
+	color: #c3edea;
+	font-size: 5rem;
+	text-shadow: 3px 3px black;
+	text-align: center;
+}
+
+p {
+	font-family: 'Mono', serif;
+	color: #82c4c3;
+	font-size: 1.3rem;
+	text-shadow: 1px 1px white;
+}
+
+footer {
+	font-family: 'Marck Script', cursive;
+	text-align: center;
+	margin-top: 100px;
+}
+
+.container {
+	width: 70%;
+	margin: auto;
+	text-align: center;
+}
+
+.dice {
+	display: inline-block;
+}
+
+.dice_picture {
+	margin: 30px;
+}
